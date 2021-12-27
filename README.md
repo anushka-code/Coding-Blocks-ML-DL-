@@ -1,2 +1,2 @@
-# Coding-Blocks-ML-DL-
+# Coding-Blocks-ML/DL-
 Exercises of the Machine Learning Masters Course 
