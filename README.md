@@ -1,2 +1,2 @@
 # Coding-Blocks-ML/DL-
-Exercises of the Machine Learning Masters Course 
+Assignments of the Machine Learning & Deep Learning Masters Course 
